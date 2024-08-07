@@ -1,4 +1,4 @@
-Mental Health Chatbot
+#Mental Health Chatbot
 Overview
 This project is an advanced conversational AI designed to assist users with mental health-related inquiries. The chatbot is fine-tuned on a dataset specifically curated for mental health FAQs, ensuring that it is well-versed in common concerns and therapeutic insights. The model offers supportive and understanding responses, helping users feel heard and valued.
 
